@@ -1,8 +1,8 @@
 from bip32utils import BIP32Key, BIP32_HARDEN
 from mnemonic import Mnemonic
 
-# BTC  https://github.com/satoshilabs/slips/blob/master/slip-0044.md
-coin_type = 0
+# EOS https://github.com/satoshilabs/slips/blob/master/slip-0044.md
+coin_type = 194
 # 0: receive, 1: change
 path = 0
 # index
