@@ -1,0 +1,2 @@
+git+git://github.com/trezor/python-mnemonic.git@ad93d47fff35f052659e6c998b6bb2671ac6153f#egg=python-mnemonic
+git+git://github.com/lyndsysimon/bip32utils.git@56f5a56d1c54e648f35b670a87efabbca08fffae#egg=bip32utils
